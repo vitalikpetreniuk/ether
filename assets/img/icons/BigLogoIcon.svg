@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="389px" height="362px" viewBox="0 0 389 362" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/BigLogoIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-84.3%" y="-75.7%" width="281.2%" height="255.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="8" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="37.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0509803922   0 0 0 0 0.68627451   0 0 0 0 0.97254902  0 0 0 0.603119339 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Icons/BigLogoIcon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo" filter="url(#filter-1)" transform="translate(130.125000, 106.000000)" fill-rule="nonzero">
+            <path d="M0,73.3235294 C0,38.8702941 28.7898088,10.9411765 64.3047304,10.9411765 C99.8198333,10.9411765 128.609642,38.8702941 128.609642,73.3235294 C128.609642,107.776765 99.8198333,135.705882 64.3047304,135.705882 C28.7898088,135.705882 0,107.776765 0,73.3235294 Z" id="Ellipse" fill="#FFFFFF"></path>
+            <g id="Group" transform="translate(19.950980, 0.000000)" fill="#3398CC">
+                <path d="M75.349049,62.6294118 L13.8378186,2.92252941 C10.9677794,0.138352941 6.31466667,0.138352941 3.44462745,2.92252941 C0.574588235,5.70688235 0.574588235,10.2206471 3.44462745,13.0051765 L64.9556765,72.7118824 C67.8257157,75.4962353 72.4788284,75.4962353 75.349049,72.7118824 C78.2189069,69.9277059 78.2190882,65.4137647 75.349049,62.6294118 Z" id="Shape"></path>
+                <path d="M68.5920147,87.7985294 L30.1014951,50.4587647 C27.2310931,47.6744118 22.5783431,47.6744118 19.7081225,50.4587647 C16.8380833,53.2429412 16.8380833,57.7570588 19.7081225,60.5412353 L58.1986422,97.881 C61.0686814,100.665353 65.7217941,100.665353 68.5920147,97.881 C71.4620539,95.0968235 71.4620539,90.5828824 68.5920147,87.7985294 Z" id="Shape"></path>
+                <path d="M87.818049,136.085824 L26.6356471,76.7324118 C23.7656078,73.9484118 19.1124951,73.9484118 16.2424559,76.7324118 C13.3724167,79.5169412 13.3724167,84.0307059 16.2424559,86.8152353 L77.4248578,146.168471 C80.2948971,148.952471 84.9480098,148.952471 87.818049,146.168471 C90.6882696,143.383941 90.6882696,138.870176 87.818049,136.085824 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

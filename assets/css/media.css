@@ -1,0 +1,547 @@
+@media only screen and (max-width:1439px)
+{
+    header .header-top .logo
+    {
+        width: 170px;
+        margin-right: 10px;
+        margin-top: 7px;
+    }
+    header .header-top .account, header .header-top .help, header .header-top .lang, header .header-top .chat
+    {
+        margin-left: 20px;
+    }
+
+    .coming-soon .cs-logo
+    {
+        width: 220px;
+    }
+    .coming-soon .cs-moto
+    {
+        font-size: 32px;
+    }
+    .coming-soon .cs-line
+    {
+        font-size: 44px;
+    }
+
+}
+@media only screen and (max-width:1199px)
+{
+    .rates-line .item
+    {
+        font-size: 12px;
+    }
+    header .header-top .account,
+    header .header-top .help,
+    header .header-top .lang,
+    header .header-top .chat
+    {
+        margin-left: 10px;
+    }
+    header .header-top .search
+    {
+        margin-left: 0;
+    }
+    header .header-top .search input
+    {
+        width: 180px;
+        font-size: 16px;
+    }
+    header .header-bottom .moto
+    {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .ether-exchange
+    {
+        padding-right: 15px;
+    }
+    .ether-trade
+    {
+        padding-left: 15px;
+    }
+
+    .coming-soon .cs-line
+    {
+        bottom: 10vh;
+    }
+
+    .content.sample .col-content .tp-image
+    {
+        width: auto;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    #search .search-container
+    {
+        width: 750px;
+    }
+
+    #search .search-container .search-left
+    {
+        width: 300px;
+    }
+    #search .search-container .search-right
+    {
+        width: calc(100% - 300px);
+    }
+}
+@media only screen and (max-width:991px)
+{
+    section.content .ether-sidebar
+    {
+        padding-right: 15px;
+    }
+    section.content .ether-main
+    {
+        padding-left: 15px;
+    }
+    .rates-line .item
+    {
+        width: 25%;
+        text-align: center;
+    }
+    .rates-line .item:nth-child(5),
+    .rates-line .item:nth-child(6),
+    .rates-line .item:nth-child(7),
+    .rates-line .item:nth-child(8)
+    {
+        display: none;
+    }
+    .ht-right nav
+    {
+        display: none;
+    }
+    .ht-left .ccurrency
+    {
+        display: none;
+    }
+    .ht-left, .ht-right
+    {
+        width: 33.33%;
+    }
+    .ht-right
+    {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    header .header-top .search input
+    {
+        width: 100%;
+    }
+    header .header-bottom .moto
+    {
+        max-width: 500px;
+        height: 200px;
+        padding-left: 160px;
+        background-size: 220px;
+        font-size: 28px;
+        line-height: 44px;
+        margin: 50px auto 80px;
+        background-position: -30px center;
+    }
+    .mobile-menu
+    {
+        display: block;
+    }
+
+    #start-tabs
+    {
+        display: none;
+    }
+    #start-accordion
+    {
+        display: block;
+    }
+
+    .coming-soon .cs-moto
+    {
+        padding: 0 30px;
+    }
+
+    .content.sample .col
+    {
+        padding: 30px 0;
+    }
+    .content.sample .col-content .tp-image
+    {
+        margin-bottom: 30px;
+    }
+    .content.sample .col-content .tp-text
+    {
+        padding: 0 20px;
+    }
+    .content.sample .col-content .tp-text p
+    {
+        margin-bottom: 30px;
+        line-height: 27px;
+    }
+    .content.sample .col-content .tp-subscribe
+    {
+        margin-top: 40px;
+    }
+}
+@media only screen and (max-width:767px)
+{
+    .mobile-menu .mobile-overlay > ul > li
+    {
+        float: none !important;
+        width: 170px !important;
+        margin: 30px auto !important;
+    }
+    .mobile-menu .mobile-overlay > ul > li .h-line
+    {
+        text-align: left !important;
+    }
+
+    #search .search-container
+    {
+        max-height: none;
+        height: 100vh;
+        width: 100%;
+    }
+    #search .search-container .search-left,
+    #search .search-container .search-right
+    {
+        width: 100%;
+    }
+    #search .search-container .search-right
+    {
+        padding-left: 0;
+    }
+    #search .search-container .search-right .sr-content
+    {
+        max-height: calc(100vh - 380px);
+    }
+    .search-left .sl-search,
+    .search-left .sl-active .item
+    {
+        margin-bottom: 20px;
+    }
+    .search-left .sl-all ul
+    {
+        max-height: 114px;
+    }
+    .all-list.scrollbar-inner > .scroll-element .scroll-bar
+    {
+        background-image: none !important;
+    }
+    .search-right p
+    {
+        font-size: 14px;
+        line-height: 27px;
+    }
+    .search-left .sl-all .item span
+    {
+        font-size: 12px;
+    }
+    .search-left .sl-all .item span:nth-child(1)
+    {
+        padding: 0 10px;
+    }
+    .search-left .sl-active .item
+    {
+        padding: 0 10px;
+        font-size: 12px;
+    }
+
+    #chat.show .chat-container
+    {
+        max-width: 395px;
+        width: 100%;
+    }
+}
+@media only screen and (max-width:575px)
+{
+    .row
+    {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .rates-line .item
+    {
+        width: 50%;
+    }
+    .rates-line .item:nth-child(3),
+    .rates-line .item:nth-child(4)
+    {
+        display: none;
+    }
+    .ht-left
+    {
+        padding: 0 10px;
+        width: 50%;
+        float: none;
+    }
+    .ht-right
+    {
+        padding: 0 10px;
+        width: 100%;
+        float: none;
+    }
+    header .header-top
+    {
+        position: relative;
+    }
+    header .header-top .logo
+    {
+        left: 0;
+        width: 140px;
+        margin: 8px 0;
+    }
+    .mobile-menu
+    {
+        position: absolute;
+        right: 10px;
+        top: 0;
+    }
+    .mobile-menu .mobile-trigger
+    {
+        margin-right: 0;
+    }
+    header .header-top .search
+    {
+        float: none;
+    }
+    header .header-top .search input
+    {
+        font-size: 18px;
+    }
+    header .header-bottom .moto
+    {
+        display: block;
+        margin-top: 0;
+        margin-bottom: 70px;
+        padding-top: 135px;
+        width: 100%;
+        padding-left: 0;
+        text-align: center;
+        background-position: center top;
+        background-size: auto 150px;
+        font-size: 22px;
+        line-height: 34px;
+    }
+
+    section.content
+    {
+        padding: 10px 0;
+    }
+    section.content .ether-sidebar,
+    section.content .ether-main
+    {
+        padding: 0 10px;
+    }
+    section.content .ether-exchange,
+    section.content .ether-trade
+    {
+        padding: 0;
+    }
+    section.content .eth-block
+    {
+        margin-bottom: 10px;
+    }
+    section.content .ether-main .eth-columns
+    {
+        margin-bottom: 0;
+    }
+
+    #exchange-tabs1 .tab-form > div
+    {
+        margin-right: 0;
+        float: none;
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    #exchange-tabs1 .tab-form > div input
+    {
+        margin: 0 auto;
+        width: 80%;
+    }
+    #exchange-tabs1 .tab-form > div label,
+    #exchange-tabs1 .tab-form > div > span
+    {
+        text-align: center;
+    }
+    #exchange-tabs1 .tab-form > div .form-currency
+    {
+        top: 36px;
+        right: 10%;
+    }
+    #exchange-tabs1 .tab-form > input
+    {
+        display: block;
+        width: 120px;
+        margin: 0 auto;
+        float: none;
+    }
+
+    .coming-soon .cs-logo
+    {
+        width: 180px;
+    }
+    .coming-soon .cs-logo h1
+    {
+        font-size: 28px;
+        top: -24px;
+    }
+    .coming-soon .cs-moto
+    {
+        font-size: 21px;
+    }
+    .coming-soon .cs-line
+    {
+        font-size: 34px;
+    }
+
+    .content.sample
+    {
+        padding: 10px;
+    }
+}
+@media only screen and (max-width:374px)
+{
+    .coming-soon .cs-logo
+    {
+        width: 140px;
+    }
+    .coming-soon .cs-logo h1 {
+        font-size: 21px;
+        top: -20px;
+    }
+    .coming-soon .cs-moto
+    {
+        font-size: 17px;
+    }
+    .coming-soon .cs-line
+    {
+        font-size: 27px;
+    }
+
+    .content.sample .col-content .tp-text h2
+    {
+        font-size: 18px;
+    }
+    .content.sample .col-content .tp-text h4
+    {
+        font-size: 16px;
+    }
+    .content.sample .col-content .tp-text p
+    {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .content.sample .col-content .tp-subscribe
+    {
+        width: auto;
+        margin: 0 20px;
+    }
+    .content.sample .col-content .tp-subscribe input[type="email"]
+    {
+        width: 100%;
+        float: none;
+    }
+    .content.sample .col-content .tp-subscribe input[type="submit"]
+    {
+        margin-top: 10px;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+    }
+
+    .search-left .sl-all ul
+    {
+        max-height: 76px;
+    }
+
+    #search .search-container .search-right
+    {
+        padding-top: 20px;
+    }
+    #search .search-container .search-right .sr-content
+    {
+        max-height: calc(100vh - 300px);
+    }
+    .search-left .sl-search, .search-left .sl-active .item,
+    .search-left .sl-title
+    {
+        margin-bottom: 10px;
+    }
+    .search-right h2
+    {
+        font-size: 18px;
+    }
+    .search-right p {
+        font-size: 12px;
+        line-height: 21px;
+    }
+    .search-left .sl-search input
+    {
+        font-size: 12px;
+        padding: 0 10px;
+    }
+}
+
+@media only screen and (max-width:812px) and (orientation:landscape) and (max-height:375px)
+{
+    .coming-soon .cs-logo
+    {
+        width: 140px;
+        padding-top: 0;
+    }
+    .coming-soon .cs-logo h1
+    {
+        top: -20px;
+        font-size: 21px;
+    }
+    .coming-soon .cs-moto
+    {
+        font-size: 21px;
+    }
+    .coming-soon .cs-line
+    {
+        bottom: 5vh;
+        font-size: 30px;
+    }
+
+    .chat-window
+    {
+        max-height: 200px;
+        padding-right: 20px !important;
+    }
+
+}
+@media only screen and (max-width:767px) and (orientation:landscape)
+{
+    .search-right
+    {
+        display: none;
+    }
+    #chat .chat-container .chat-sign
+    {
+        bottom: 10px;
+    }
+    #chat .chat-container
+    {
+        padding-top: 20px;
+    }
+    #chat .chat-container .chat-window
+    {
+        max-height: 180px;
+    }
+    #chat .chat-container h2
+    {
+        margin-bottom: 15px;
+    }
+}
+@media only screen and (max-width:568px) and (orientation:landscape)
+{
+    .coming-soon .cs-moto
+    {
+        top: 70%;
+
+        -webkit-transform: translateY(-70%);
+        transform: translateY(-70%);
+    }
+}

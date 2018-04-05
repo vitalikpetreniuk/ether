@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="6px" viewBox="0 0 9 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>ions/angle_up</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 7.95164189 0 7.95164189 4.9628125 0 4.9628125"></polygon>
+    </defs>
+    <g id="ions/angle_up" stroke="#ffffff" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(4.504464, 3.000000) rotate(-180.000000) translate(-4.504464, -3.000000) translate(0.504464, 0.500000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M4.67539732,4.67299107 L7.65950446,1.6903125 C8.28343304,1.06665179 7.84178125,0 6.95959375,0 L0.992049107,0 C0.109950893,0 -0.331790179,1.0665625 0.292049107,1.69022321 L3.27548661,4.67290179 C3.66204911,5.05941964 4.28874554,5.05946429 4.67539732,4.67299107" id="Fill-1" fill="#ffffff" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

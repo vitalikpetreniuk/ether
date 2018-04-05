@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="40px" viewBox="0 0 76 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/depthBtnMobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons/depthBtnMobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(7.500000, 8.000000)"></g>
+        <g id="Group" transform="translate(7.500000, 8.500000)">
+            <path d="M1,0 L1,21.5" id="Line" stroke="#0CAEF7" stroke-linecap="square"></path>
+            <path d="M60,0 L60,21.5" id="Line-Copy" stroke="#0CAEF7" stroke-linecap="square"></path>
+            <path d="M1,21.5 L60,21.5" id="Line-2" stroke="#0CAEF7" stroke-linecap="square"></path>
+            <polygon id="Page-1" stroke="#FFFFFF" stroke-width="0.2" fill="#FFFFFF" transform="translate(42.002327, 10.400000) rotate(-180.000000) translate(-42.002327, -10.400000) " points="49.2459684 3.64870738 49.2459684 4.66078415 50.8358382 4.66078415 41.7130677 15.0715983 37.2841446 10.0111527 31.6546534 16.4354334 32.2765954 17.1512926 37.2841446 11.4429328 41.7130677 16.4971454 51.4631338 5.37664333 51.4631338 7.18480489 52.35 7.18480489 52.35 3.64870738"></polygon>
+            <polygon id="Page-1-Copy" stroke="#FFFFFF" stroke-width="0.2" fill="#FFFFFF" transform="translate(18.697673, 10.400000) scale(-1, 1) rotate(-180.000000) translate(-18.697673, -10.400000) " points="25.941315 3.64870738 25.941315 4.66078415 27.5311848 4.66078415 18.4084143 15.0715983 13.9794912 10.0111527 8.35 16.4354334 8.97194194 17.1512926 13.9794912 11.4429328 18.4084143 16.4971454 28.1584804 5.37664333 28.1584804 7.18480489 29.0453466 7.18480489 29.0453466 3.64870738"></polygon>
+        </g>
+    </g>
+</svg>
